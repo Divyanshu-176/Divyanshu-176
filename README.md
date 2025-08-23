@@ -17,19 +17,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-- **Auth System (React):**  
-  Compared State Lifting vs Context API for dynamic UI updates after login.
-
-- **Movie App (React + Context API):**  
-  Features favorites & localStorage persistence.
-
-- **Coursify Rest API:**  
-  Coursify is a Course selling platform like Udemy.
-
----
-
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/divyanshujain17/)
