@@ -21,7 +21,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/divyanshujain17/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Divyanshu-176)
-[![X](https://x.com/Yukihira_djdj)
+[!twitter](https://x.com/Yukihira_djdj)
 
 ---
 
