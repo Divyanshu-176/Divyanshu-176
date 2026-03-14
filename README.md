@@ -19,7 +19,7 @@ Some days I'm coding, some days I'm exploring ideas, and some days I'm just deep
 
 ### 🎯 Fun Facts & Interests
 
-* Love **Japanese culture** 🌸
+* Love **Japanese culture** 
 * Interested in **tech ideas and startups** 🚀
 * Enjoy building small experiments and side projects
 * Always curious about **how things work under the hood**
@@ -41,8 +41,9 @@ Tools       → Git • GitHub • REST APIs
 ### 🌐 Around the Internet
 
 Portfolio → https://divyanshujain.vercel.app
+linkedin → https://www.linkedin.com/in/divyanshujain17
 
-
+---
 
 > **"Eat, Sleep, Binge, Code. Repeat."**
 
