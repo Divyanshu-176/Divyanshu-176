@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm Divyanshu</h1>
+<h1>👋 Hi, I'm Divyanshu</h1>
 
-<p align="center">
+<p>
 Student • Aspiring Developer • Future Entrepreneur
 </p>
 
@@ -47,10 +47,8 @@ linkedin → https://www.linkedin.com/in/divyanshujain17
 
 > **"Eat, Sleep, Binge, Code. Repeat."**
 
-```
-
----
 
 <p align="center">
 Thanks for visiting my little corner of GitHub ✨
 </p>
+---
