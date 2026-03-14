@@ -42,11 +42,9 @@ Tools       → Git • GitHub • REST APIs
 
 Portfolio → https://divyanshujain.vercel.app
 
-<p align="center">━━━━━━ ◦ ❖ ◦ ━━━━━━</p>
+
 
 > **"Eat, Sleep, Binge, Code. Repeat."**
-
-![](https://komarev.com/ghpvc/?username=Divyanshu-176&color=blue)
 
 ```
 
