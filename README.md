@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm Divyanshu</h1>
 
 <p>
-Student • Aspiring Developer • Future Entrepreneur
+Student • Developer
 </p>
 
 
