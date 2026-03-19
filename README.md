@@ -9,7 +9,7 @@ Student • Aspiring Developer • Future Entrepreneur
 
 ### 🧑‍💻 About Me
 
-I'm a computer science student who enjoys building things on the internet and exploring interesting tech ideas.
+I'm a computer science student who enjoys building things and exploring interesting tech ideas.
 
 Most of my learning comes from experimenting with projects, breaking things, fixing them, and repeating the process.
 
@@ -25,16 +25,6 @@ Some days I'm coding, some days I'm exploring ideas, and some days I'm just deep
 * Always curious about **how things work under the hood**
 
 ---
-
-### 🛠 Skills
-
-```txt
-Languages   → JavaScript • TypeScript • Python • Java • C++
-Frontend    → React • Next.js • HTML • CSS • Tailwind
-Backend     → Node.js • Express • Django
-Database    → MongoDB • PostgreSQL • SQL
-Tools       → Git • GitHub • REST APIs
-```
 
 ---
 
